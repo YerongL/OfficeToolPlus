@@ -9,7 +9,7 @@
     <sys:String x:Key="MenuAD">После скачивания</sys:String>
     <sys:String x:Key="MenuAI">После установки или удаления</sys:String>
     <sys:String x:Key="MenuSetup">Запустить установку</sys:String>
-    <sys:String x:Key="MenuExit">Выключить OTP</sys:String>
+    <sys:String x:Key="MenuExit">Выключить OTL</sys:String>
     <sys:String x:Key="MenuLogOut">Выйти из системы</sys:String>
     <sys:String x:Key="MenuPowerOff">Выключить компьютер</sys:String>
     <sys:String x:Key="MenuReboot">Перезагрузка</sys:String>
@@ -41,7 +41,7 @@
     <sys:String x:Key="WizardProduct4">Project 2019 Pro - Volume</sys:String>
     <sys:String x:Key="WizardProduct5">Project 2019 Pro - Retail (Для Office 365)</sys:String>
     <sys:String x:Key="WizardProduct6">Visio 2019 Pro - Volume</sys:String>
-    <sys:String x:Key="WizardProduct7">Visio 2019 Pro - Retail (Для Office 36)</sys:String>
+    <sys:String x:Key="WizardProduct7">Visio 2019 Pro - Retail (Для Office 365)</sys:String>
     <!-- Greetings -->
     <sys:String x:Key="GreetingHi">Привет!</sys:String>
     <sys:String x:Key="GreetingGoodMorning">Доброе утро!</sys:String>
