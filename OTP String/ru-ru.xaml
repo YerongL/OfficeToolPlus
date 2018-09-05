@@ -34,7 +34,7 @@
     <sys:String x:Key="DownloadOffice">Загрузка</sys:String>
     <sys:String x:Key="InstallOffice">Установка</sys:String>
     <sys:String x:Key="ActivateOffice">Активация</sys:String>
-    <sys:String x:Key="ManageTip">Настроить или удалить Office</sys:String>
+    <sys:String x:Key="ManageTip">Настроить или удалить Office.</sys:String>
     <sys:String x:Key="DownloadTip">Загрузка дистрибутива Office.</sys:String>
     <sys:String x:Key="InstallTip">Развёртывание Office.</sys:String>
     <sys:String x:Key="ActivateTip">Лицензии и ключи.</sys:String>
